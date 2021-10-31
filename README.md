@@ -1,6 +1,7 @@
 # sgemm-optimization
 *for backup only*
 ## objective
+On ARM.
 Using alignment, prefetch, loop refactorization, cache blocking, vectorization (intrinsic) and loop unrolling to optimize square gemm.
 
 ## performance
